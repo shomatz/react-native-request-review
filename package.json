@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "React Native library for requesting App Store and Google Play reviews",
   "source": "./src/index.tsx",
-  "main": "./lib/commonjs/index.js",
+  "main": "./src/index.tsx",
   "module": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
